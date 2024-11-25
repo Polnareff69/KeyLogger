@@ -30,8 +30,6 @@ int main(int argc, char** argv)
 
 		Sleep(100);
 
-
-
 	}
 	archivo.close();
 
